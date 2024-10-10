@@ -102,7 +102,7 @@ def __signup__(use_proxies, proxies):
             token_file.write(f"{id_token}\n")
 
         successful_gens += 1
-        ctypes.windll.kernel32.SetConsoleTitleW(f"solved: {successful_gens} created {successful_gens}")
+        ctypes.windll.kernel32.SetConsoleTitleW(f"made by daapiandev <3 solved: {successful_gens} created {successful_gens}")
 
         return True
     else:
