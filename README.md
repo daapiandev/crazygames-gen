@@ -13,8 +13,8 @@ sorry for too long time no post i am busy i made this quickly i made a lil desig
 # 📷pictures 
 
 video:
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cb6b30b5-b798-4d92-8d17-4467a4f00505)
 
-[https://s7.ezgif.com/tmp/ezgif-7-d342b90318.gif](https://s7.ezgif.com/tmp/ezgif-7-d342b90318.gif)
 
 
 picture:
