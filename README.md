@@ -6,11 +6,13 @@ sorry for too long time no post i am busy i made this quickly i made a lil desig
 # features🔥
 -Https/http proxy support🔥
 
--Fairly fast
+-Fairly fast🔥
 
 -Fully request based🔥
 
--formats (email:pass) (token)
+-formats (email:pass) (token)🔥
+
+-build in solver🔥
 
 
 
